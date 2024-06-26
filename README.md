@@ -28,14 +28,6 @@
 The Wild Oasis hotel management app is a full-featured React web application that allows hotel employees to manage cabins, bookings, and guests. The app uses Supabase for its backend and implements a variety of advanced React techniques, such as HOCs, the Compound Component Pattern, and React Query.
 </p>
 
-<!-- Screenshot -->
-<a align="center" href="https://the-wild-oasis-alamin.vercel.app">
-![Screenshot](./public/thumbnail-preview.png)
-
-![Screenshot](./public/thumbnail-preview.png)
-
-</a>
-
 ## Table of contents
 
 - [Features](#Features)
