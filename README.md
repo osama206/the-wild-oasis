@@ -12,14 +12,6 @@
     </a>
   </h3>
 
-  <div align="center">
-    <a href="https://the-wild-oasis-alamin.vercel.app">View Demo</a>
-    •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/issues">Report Bug</a>
-    •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/pulls">Request Feature</a>
-  </div>
-
   <hr>
 
 </div>
@@ -38,6 +30,7 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 
 <!-- Screenshot -->
 <a align="center" href="https://the-wild-oasis-alamin.vercel.app">
+![Screenshot](./public/thumbnail-preview.png)
 
 ![Screenshot](./public/thumbnail-preview.png)
 
