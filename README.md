@@ -156,7 +156,7 @@ By building "The Wild Oasis" project with these technologies and concepts, I've 
 - Clone this repo:
 
 ```sh
-git clone https://github.com/osama206/The-wild-oasis.git
+git clone https://github.com/osama206/the-wild-oasis.git
 ```
 
 - Install dependencies:
